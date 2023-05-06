@@ -6,4 +6,4 @@ Bu proje HTML ve Bootstrap yapısı kullanılarak geliştirilmiştir.
 HTML ve Bootstrap
 
 <h3>Ekran Görüntüsü</h3>
-![Alt text](Bootstrap_Projesi.gif)
+<img src="Bootstrap_Projesi.gif">
