@@ -1,0 +1,12 @@
+
+/* ilk açıklama alanı 70px aşağı kaydırıyor */
+body::before{
+    display: block;
+    content: '';
+    height: 70px;
+}
+
+.circle-img{
+    width: 100%;
+    
+}
